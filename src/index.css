@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transist {
+  transition: all 0.3s ease;
+}
+.container-Shadow {
+  box-shadow: 0px 0px 50px 1px rgba(0, 0, 0, 0.3);
+}
